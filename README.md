@@ -116,23 +116,23 @@ Identified audiences:
 ### **Data Flow Diagram: User not logged in**
 
 This section of the DFD is based upon the premise that the user will not be logged in. The features will be available to all user types, whether or not they are logged in. <br>
-![Data Flow Diagram Overall](files\DFDs\userNotLoggedInDFD.png)
+![Data Flow Diagram Overall](./files/DFDs/userNotLoggedInDFD.png)
 
 ### **Data Flow Diagram: User events management**
 
 Users will access the event data flow either by; registering for an event or viewing their current events. Guests can view currently listed events, but will only be able to register if they create or have an account. Users will be able to change or cancel their reservation through their user profile. <br>
-![Data Flow Diagram Overall](files\DFDs\eventsManagementDFD.png)
+![Data Flow Diagram Overall](./files/DFDs/eventsManagementDFD.png)
 
 ### **Data Flow Diagram: User product purchase and review**
 
 Guests will be able to see the product line and selected products. Only user who are logged in will be able to purchase or review products. <br>
 
-![Data Flow Diagram Overall](files\DFDs\productPurchaseReviewDFD.png)
+![Data Flow Diagram Overall](./files/DFDs/productPurchaseReviewDFD.png)
 
 ### **Data Flow Diagram: User profile and tags**
 
 Users will have their own profiles, where they can upload and update their own credentials. <br>
-![Data Flow Diagram Overall](files\DFDs\userProfileTagsDFD.png)
+![Data Flow Diagram Overall](./files/DFDs/userProfileTagsDFD.png)
 
 ## **Wireframes**
 
@@ -148,27 +148,27 @@ Users will have their own profiles, where they can upload and update their own c
 
 #### **Wireframe: Age verification**
 
-![Wireframe: Age verification](files\wireframes\ageVerification.png)
+![Wireframe: Age verification](./files/wireframes/ageVerification.png)
 
 #### **Wireframe: Home page**
 
-![Wireframe: Home page](files\wireframes\homePage.png)
+![Wireframe: Home page](./files/wireframes/homePage.png)
 
 #### **Wireframe: Product page**
 
-![Wireframe: Product page](files\wireframes\productPage.png)
+![Wireframe: Product page](./files/wireframes/productPage.png)
 
 #### **Wireframe: Sign Up**
 
-![Wireframes: Sign Up](files\wireframes\signUp.png)
+![Wireframes: Sign Up](./files/wireframes/signUp.png)
 
 #### **Wireframe: Log In**
 
-![Wireframes: Log In](files\wireframes\logIn.png)
+![Wireframes: Log In](./files/wireframes/logIn.png)
 
 #### **Wireframe: User profiles**
 
-![Wireframes: User profiles](files\wireframes\userProfiles.png)
+![Wireframes: User profiles](./files/wireframes/userProfiles.png)
 
 ## **Trello Board**
 
