@@ -56,13 +56,13 @@ Identified audiences:
    [React.js ref](https://codeinstitute.net/global/blog/what-is-react-js/)
 
 2. Ruby on Rails <br>
-   Rails is a development tool which gives web developers a framework, providing structure for all the code they write. The Rails framework helps developers to build websites and applications, because it abstracts and simplifies common repetitive tasks.<br>
+   Rails is a development tool which gives web developers a framework, providing structure for all the code they write, by means of Models, Views and controller, which are also known as an MVC archectirue. Rails helps developers build websites and applications, due to it abstracting and simplifing common repetitive tasks.<br>
    [Ruby on Rails ref](https://bitzesty.com/2014/03/03/ruby-on-rails-what-it-is-and-why-we-use-it-for-web-applications/)
 3. Express.js
    Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage, and hybrid web application. It's a layer built on the top of the Node js that helps manage servers and routes. <br>
    [Express.js ref](https://www.simplilearn.com/tutorials/nodejs-tutorial/what-is-express-js)
 4. SQL <br>
-   Structured Query Language (SQL) is a standardised programming language that is used to manage relational databases and perform various operations on the data in them. Further used for modifying database table and index structures, adding, updating and deleting rows of data and retrieving subsets of information from within RDM systems. <br>
+   Structured Query Language (SQL) is a standardised programming language that is used to manage relational databases and perform various operations on the data in them. It is further used for modifying database tables and index structures by; adding, updating and deleting rows of data and retrieving subsets of information from within RDM systems. <br>
    [SQL ref](https://www.techtarget.com/searchdatamanagement/definition/SQL)
 5. Netlify <br>
    Netlify is a web hosting infrastructure and automation technology service that is used to quickly deploy apps and web-services. <br>
@@ -71,13 +71,13 @@ Identified audiences:
    Heroku is a container-based cloud platform as a service (PaaS). This is used to deploy, manage, and scale modern apps. <br>
    [Heroku ref](https://www.heroku.com/about)
 7. Stripe <br>
-   Stripe is a payment service provider that businesses can use to accept dozens of payment methods, from credit cards to buy now, pay later services. This is used within web-development for an easy implementation of paid services. <br>
+   Stripe is a payment service provider that businesses can use to accept dozens of payment methods; from credit cards, to buy now pay later services. This is used within web-development for an easy implementation of paid services, allowing operators to process payments through a third-party. <br>
    [Stripe ref](https://www.nerdwallet.com/article/small-business/what-is-stripe)
 8. Google Calendar API <br>
-   Enables developers to add full calender data and functionality into their app using a REST interface, or as we will use a client library which is used via Java, python, PHP, JS and more. <br>
+   Googles Calendar API allows developers to add calender functionality and data into their apps using a REST interface, or what will use, a client library which is used via Java, Python, PHP, JS and more. <br>
    [Google Calendar API](https://www.nylas.com/blog/integrate-google-calendar-api)
 9. AWS (Amazon Web Services)
-   AWS is a mixture of infrastructure as service (IaaS, platform as a service (PaaS) and packaged software as service (SaaS). Used for scalability, cost-effectiveness cloud computing solutions. This would involve things like on-demand operations, database storage, content deliberation etc. <br>
+   AWS is a mixture of infrastructure as service (IaaS, platform as a service (PaaS) and packaged software as service (SaaS). Used for scalability, cost-effectiveness cloud computing solutions. This would involve things like on-demand operations, database storage, content deliberation etc. This reduces the need for developers and project managers to create and manage their own personal servers. <br>
    [AWS ref](https://www.simplilearn.com/tutorials/aws-tutorial/what-is-aws)
 
 ## **User Stories**
