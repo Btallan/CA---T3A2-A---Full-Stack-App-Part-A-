@@ -111,7 +111,7 @@ Identified audiences:
 
 ## **Data Flow Diagram**
 
-![Data Flow Diagram Overall](.\files\DFDs\dataFlowDiagram.png)
+![Data Flow Diagram Overall](./files/DFDs/dataFlowDiagram.png)
 
 ### **Data Flow Diagram: User not logged in**
 
